@@ -1,0 +1,7 @@
+ami = "ami-06006e8b065b5bd46"
+instance = "t2.micro"
+region = "ap-south-1"
+avail_zone = "ap-south-1a"
+env_prefix = "dev"
+vpc_cidr_block = "10.0.0.0/16"
+subnet_cidr_block = "10.0.1.0/24"
